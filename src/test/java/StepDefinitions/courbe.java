@@ -31,7 +31,7 @@ public class courbe {
         driver.findElement(By.id("continue")).click();
         driver.findElement(By.id("password")).sendKeys("Mohamed21100@@");
         driver.findElement(By.id("next")).click();
-
+///
 //
     }
 
