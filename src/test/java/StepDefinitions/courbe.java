@@ -32,7 +32,7 @@ public class courbe {
         driver.findElement(By.id("password")).sendKeys("Mohamed21100@@");
         driver.findElement(By.id("next")).click();
 
-
+//
     }
 
     @When("j'importe des nouveaux données du fichier excel")
